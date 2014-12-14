@@ -872,6 +872,11 @@ div.footer ul li.link-icon a {
   div.header div.title ul.social {
     display: none;
   }
+  div.site-description ul,
+  li {
+    display:inline;
+    padding-right: 5px;
+  }
   div.header a.logo {
     margin-top: 120px;
   }
