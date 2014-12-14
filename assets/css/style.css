@@ -188,6 +188,7 @@ body {
 ul,
 li {
   list-style-type: none;
+  line-height: none;
 }
 ul,
 li,
