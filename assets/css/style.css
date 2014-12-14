@@ -897,9 +897,10 @@ div.footer ul li.link-icon a {
   div.header div.title ul.social {
     display: none;
   }
-  ul,
+  div.site-description ul,
   li {
     display:inline;
+    padding-right: 5px;
   }
   div.posts {
     padding: 80px 30px 0 30px;
