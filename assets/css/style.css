@@ -894,6 +894,7 @@ div.footer ul li.link-icon a {
   div.header div.site-name {
     color:white;
     text-align:center;
+    margin-top: -120px;
     font-size:90%;
   }
   div.header a.logo {
