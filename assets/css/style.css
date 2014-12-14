@@ -348,7 +348,7 @@ div.header div.site-description ul {
   padding-top: 30px;
 }
 div.header div.site-description ul li {
-  padding-bottom: 6px;
+  padding-bottom: 0px;
 }
 div.header div.site-description ul li a {
   color: #fff;
