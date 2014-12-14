@@ -874,7 +874,7 @@ div.footer ul li.link-icon a {
   div.header {
     position: relative;
     height: 200px;
-    border: 15px solid #ffffff;
+    border: 0px solid #ffffff;
   }
   div.header.span4 {
     margin: 0;
@@ -910,7 +910,7 @@ div.footer ul li.link-icon a {
   div.header {
     position: relative;
     height: 200px;
-    border: 15px solid #ffffff;
+    border: 0px solid #ffffff;
   }
   div.header.span4 {
     margin: 0;
