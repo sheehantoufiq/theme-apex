@@ -883,8 +883,8 @@ div.footer ul li.link-icon a {
   div.header div.title ul.social {
     display: none;
   }
-  div.site-description {
-    padding-bottom:120px;
+  div.header div.site-description {
+    padding: 30px 30px 120px 30px;
   }
   div.site-description ul,
   li {
