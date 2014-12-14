@@ -345,6 +345,17 @@ div.header div.site-description p {
   line-height: 28px;
   color: #ffffff;
 }
+div.header div.site-name h3 {
+   color:white; 
+   padding-top:20px; 
+   text-align:center;
+}
+div.header div.site-name p {
+   color:white; 
+   padding-top:5px; 
+   text-align:center; 
+   font-size:90%;
+}
 div.header div.site-description ul {
   padding-top: 30px;
 }
@@ -872,10 +883,24 @@ div.footer ul li.link-icon a {
   div.header div.title ul.social {
     display: none;
   }
+  div.site-description {
+    padding-bottom:120px;
+  }
   div.site-description ul,
   li {
     display:inline;
     padding-right: 5px;
+  }
+  div.header div.site-name h3 {
+     color:white; 
+     padding-top:20px; 
+     text-align:center;
+  }
+  div.header div.site-name p {
+     color:white; 
+     padding-top:5px; 
+     text-align:center; 
+     font-size:90%;
   }
   div.header a.logo {
     margin-top: 120px;
